@@ -1,4 +1,6 @@
 site_name: Trailblazer Colony 14 Documentation
+repo_url: https://github.com/spess14/docs
+copyright: MIT
 
 nav:
   - Main: index.md
