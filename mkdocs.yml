@@ -1,0 +1,7 @@
+site_name: Trailblazer Colony 14 Documentation
+
+nav:
+  - Main: index.md
+
+theme:
+  name: 'material'
