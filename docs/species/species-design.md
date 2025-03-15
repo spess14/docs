@@ -104,6 +104,10 @@ Downsides:
 
 Dionas are literally sentient plants.
 
+Misc:
+
+- Diona maximum age is 1000.
+
 Upsides:
 
 - Dionas can turn into a nymph on death, allowing them to reform into a new body in 10 minutes. This comes with a skill loss.
