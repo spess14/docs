@@ -24,7 +24,7 @@ Upsides:
 
 - Dwarves are immune to alcohol poisoning. They gain nutrition from alcoholic beverages.
 - Dwarves can see in the dark.
-- Dwarves get +2 to Crafting and Mining.
+- Dwarves get +2 to Crafting and Excavating.
 
 Downsides:
 
