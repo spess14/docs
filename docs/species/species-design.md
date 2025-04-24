@@ -10,7 +10,7 @@ However, balance is still important. In general, all species must have this desi
 
 Humans are the baseline for all species. They only have one upside:
 
-- Humans get +15% learning rate.
+- Humans get 5 extra skill points roundstart.
 
 ## Dwarf
 

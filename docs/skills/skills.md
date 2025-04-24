@@ -40,3 +40,16 @@ After that, a player has a list of passions for skills, for example: Research+++
 Each skill with a triple passion will have at least level 4, and each skill with a double passion will have at least level 2. Amount of guaranteed skill points given that way cannot exceed 10 - if you somehow get triple passion in 3 skills, you will only get guaranteed level 4 for 2 skills and guaranteed level 2 for 1 skill.
 
 At the start of the round, you will get 25 skill points minus guaranteed skill points randomly assigned to all of your skills. For each passion in a skill, you get +1 weight to getting a skill point in that skill. For example, with triple-passion research, you are four times as likely to get a skill point for Research as a skill point for Shooting. Again, you cannot exceed level 10 from that; if you gain Research 10 and you still have skill points to be distributed, they will go to other skills.
+
+## Development points
+Development points are a replacement for XP system; instead of XP, you get either free-choice development points or development points that automatically go to a specific skill.
+
+Development points for a level-up is ROUNDUP((CURRENTLVL+1)/2).
+
+To get development points, you can read books, complete certain achievements in skills, or just do the activity associated with the activities.
+
+## Development falloff
+
+At max, a person can have 160 skill points. At roundstart, a person has 25-30 skill points.
+
+With every skill point, you get a +0.85% chance to not gain any development points from any source. This means that the absolute maximum of skill points is 118~=120, out of 160.
